@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">project1_phillip_heroux</string>
+    <string name="button">Enter number</string>
+    <string name="button2Text">Waiting for Entry</string>
+    <string name="welcomeMessage"><b>Welcome to my communication app</b></string>
+    <string name="textview"><b>Please enter a number</b></string>
+    <string name="errorMessage">Number needs to be entered as (xxx) xxx-xxxx You have entered:</string>
+</resources>
